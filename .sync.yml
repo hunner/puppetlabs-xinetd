@@ -1,3 +1,5 @@
 ---
+Rakefile:
+  changelog_generator_since_tag: "3.0.0"
 appveyor.yml:
   delete: true
